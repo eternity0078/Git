@@ -1,7 +1,10 @@
 #Files
 *.db
 *.log
-.DS_Store
+
 #Dirs
 target/
 bin/
+
+#Others
+.DS_Store
